@@ -1,0 +1,3 @@
+the hello: up 3
+the dougie: up 3 || down 2 || left 2 || right 1
+the cat daddy: left 2 || left 2 || right 2 || right 2

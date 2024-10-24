@@ -1,0 +1,6 @@
+forward= up,forward,straight, north
+back= backwards,backward,back,behind,south,down
+left= left,west
+right=right,east
+
+

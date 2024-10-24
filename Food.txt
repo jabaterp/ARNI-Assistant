@@ -1,0 +1,17 @@
+pizza= dominos, papa johns, paisanos, wise guys
+nandos= nandos
+burger= all about burger, five guys, 5 guys
+wings= buffalo wild wings, the goat
+chipotle= chipotle
+next
+pizza toppings= ham, beef, salami, pepperoni, sausage, chicken, bacon, steak, hot sauce, garlic, jalapenos, onions, banana peppers, tomatoes, black olives, mushrooms, pineapple, provolone, cheddar, green peppers, spinach, red peppers, feta, parmesan
+nandos toppings= extra hot, mashed, fries, garlic bread
+burger toppings= lettuce, tomatoes, mushrooms, onions, jalapenos, relish, hot sauce
+wings toppings= inerno, wild
+chipotle toppings= pinto beans, brown rice, white rice, lettuce, tomatoes, hot sauce, sour cream, guac, guacamole, steak, carnitas, barbacoa, carne asada
+next
+pizza usual= jalapenos, pepperoni, pepperoni, bacon
+nandos usual= extra hot, mashed, fries
+burger usual= lettuce, tomatoes, mushrooms, onions, jalapenos, relish, hot sauce
+wings usual= wild
+chipotle usual= pinto beans, brown rice, lettuce, tomatoes, hot sauce, sour cream, guac, carne asada
